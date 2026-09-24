@@ -1,0 +1,8 @@
+ Customer ID , Customer Name , Age , Monthly Spend , City , Notes 
+1001,  Alice Martin  ,29,120.50, Athens , First order 
+1002,Bob Chen,34,89.00,London, 
+1003, Carla Rossi ,unknown,150.75, Rome,Follow up needed
+1004,Diego Silva,41,  ,Lisbon,  Preferred customer  
+1002,Bob Chen,34,89.00,London, 
+ , , , , , 
+1005, Elena Petrova ,37,210.00,Sofia,New customer
